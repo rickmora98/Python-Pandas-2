@@ -1,17 +1,20 @@
-<h1> Heroes of Pymoli <br> (Using Python and Pandas to analyze data for a fictitious game) </h1>
+<h1> Py City Schools <br> (Using Python and Pandas to analyze academic performance in a fictitious school district) </h1>
 
-This Jupyter notebook (HeroesOfPymoli.ipynb) demonstrates several ways to use Pandas data frames to analyze age, gender, and spending patterns
-for the fictitious game Heroes of Pymoli. The input data comes from csv file "purchase_data.csv". 
+This Jupyter notebook (PyCitySchools.ipynb) demonstrates several ways to use Pandas data frames to analyze student academic
+performance in the fictitious Py City School District.  Specifically, does a school's size, budget, or type (charter or district)
+have any influence on it's students' math and reading scores.
+The input data comes from csv files "schools_complete.csv" and "students_complete.csv". 
 There is not an output data file, but all output is contained within the notebook and appears below each corresponding code cell.
 
 To examine the source code files and data files, their locations are indicated in the tree below:
 
 #### Folders/Files:
 
-> **"HeroesOfPymoli"** (main folder) <br>
-> - *"HeroesOfPymoli.ipynb"* (jupyter notebook file containing python/pandas code) <br>
+> **"PyCitySchools"** (main folder) <br>
+> - *"PyCitySchools.ipynb"* (jupyter notebook file containing python/pandas code) <br>
 > - **"Resources"** (subfolder) <br>
->	- *"purchase_data.csv"* (input data file) <br>
+>	- *"schools_complete.csv"* (input data file) <br>
+>	- *"students_complete.csv"* (input data file) <br>
 	
 (Please do not move, rename, delete, or alter!)
 
@@ -19,3 +22,4 @@ To examine the source code files and data files, their locations are indicated i
  
 <img src="Images/CodeSnip1.jpg"> <br>
 <img src="Images/CodeSnip2.jpg"> <br>
+<img src="Images/CodeSnip3.jpg"> <br>
